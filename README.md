@@ -4,7 +4,9 @@ This notebook demonstrates the development of a basic recommendation system usin
 Objectives:
 
 ->Build a Basic Recommendation System: Implement a system to suggest items based on similarity.
+
 ->Calculate Item Similarity: Use the corrwith() method to compute correlations between items.
+
 ->Sort and Recommend: Sort the DataFrame by correlation to identify and recommend the most similar items.
 
 Workflow:
